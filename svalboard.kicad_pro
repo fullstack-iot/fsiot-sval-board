@@ -235,8 +235,13 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "SvalBoardFootPrintLib"
+    ],
+    "pinned_symbol_libs": [
+      "SparkFun_Thing_Plus_ESP32_WROOM_C-eagle-import",
+      "SvalBoardSymLib"
+    ]
   },
   "meta": {
     "filename": "svalboard.kicad_pro",
